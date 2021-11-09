@@ -12,3 +12,6 @@ https://jmproctor.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by John Proctor
+
+
+### ©️2019 Run Buddy, Inc
